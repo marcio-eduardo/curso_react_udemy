@@ -1,0 +1,16 @@
+form {
+    width: 500px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+input,
+testarea,
+select {
+    display: block;
+    margin-top: 10px;
+}
+
+h3 {
+    margin-top: 50px;
+}
