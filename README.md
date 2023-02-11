@@ -138,3 +138,5 @@
 - Ou seja, ele vai ser **_exclusivo do componente_**;
 - O nome do arquivo é: **_Componente.module.css_**;
 - Precisamos importá-lo também no componente;
+
+teste
