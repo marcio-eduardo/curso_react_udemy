@@ -1,16 +1,17 @@
 form {
-    width: 500px;
-    margin: 0 auto;
-    text-align: left;
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
 }
 
 input,
-testarea,
+textarea,
 select {
-    display: block;
-    margin-top: 10px;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 h3 {
-    margin-top: 50px;
+  margin-top: 50px;
 }
