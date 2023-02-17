@@ -164,7 +164,7 @@
 - Basicamente criamos uma ***função inline no onChenge***;
 - Ela vai ***alterar o valor do state*** com o método set, da mesma forma que a função isolada;
 
-# Envio de formulário
+##Envio de formulário
 
 - Para enviar um form, vmos utilizar o evento ***onSubmit***;;
 - ***Ele chamará uma função***, e nesta devemos lembrar de parar  a submissão com o ***precentDefault***;
