@@ -194,6 +194,16 @@
 - Quando temos a alteração  de um valor o ***evento onChange*** pode captar isso;
 - O value tambem pode atribuir qual ***option*** estará  selecionada;
 
+## JSON server
+
+- O ***JSON server*** é um pacote npm;
+- Ele ***simula uma API***, e isso nos possibilita fazer requisições HTTP;
+- Vamos aprender a ***integrar este recurso com o React***;
+- Podemos entender isso como uma etapa  de preparação para APIs reais;
+- Ou seja, atingir o mesmo resultado  mas sem precisar  de uma estrutura  no back-end;
+
+
+
 
 
 
